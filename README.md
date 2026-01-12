@@ -1,4 +1,18 @@
 # Data Annotation QA Framework
+---
+## Purpose
+
+This project demonstrates a practical QA rubric for evaluating data annotation quality in human-in-the-loop AI workflows.  
+It is designed to reflect how real data operations teams assess quality, deliver feedback, and maintain consistent standards at scale.
+
+---
+## How This Rubric Is Used
+
+- Annotators submit completed tasks  
+- QA reviews samples against defined criteria  
+- Issues are categorized as Significant or Minor  
+- Feedback is provided and tasks are corrected if needed  
+- Repeated Significant Issues trigger retraining or escalation
 
 
 This rubric defines how annotation errors are categorized and counted during QA review.  
