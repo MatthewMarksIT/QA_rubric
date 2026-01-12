@@ -82,7 +82,7 @@ Clear, constructive feedback is critical to improving quality and maintaining he
 **Task ID:** 10482  
 **Issue Type:** Significant – Factual Inaccuracy  
 
-> The explanation incorrectly states that the article supports the claim. In this case, the source explicitly contradicts it. Please re-review the source before labeling and ensure your explanation reflects the evidence. See Guideline Section 2.3 for supported vs. unsupported claims. Score: 
+> The explanation incorrectly states that the article supports the claim. In this case, the source explicitly contradicts it. Please re-review the source before labeling and ensure your explanation reflects the evidence. See Guideline Section 2.3 for supported vs. unsupported claims. Score: 4
 
 ---
 
