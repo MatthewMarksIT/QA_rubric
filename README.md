@@ -53,3 +53,17 @@ Errors that are **cosmetic or easily correctable** by QA or the annotator after 
 - Incomplete or low-quality explanations  
 - Slightly over the word limit  
 
+---
+## Future Improvements
+ 
+- Track inter-annotator agreement metrics  
+- Query error types and severity
+- Tailor rubric to specific project requirements
+- Repurpose for multi-modal annotation tasks
+
+---
+## Author 
+
+- Matthew Marks
+- Version 1.0
+- Date: 1/12/2026
