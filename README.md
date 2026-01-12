@@ -82,21 +82,21 @@ Clear, constructive feedback is critical to improving quality and maintaining he
 **Task ID:** 10482  
 **Issue Type:** Significant – Factual Inaccuracy  
 
-> The explanation incorrectly states that the article supports the claim. In this case, the source explicitly contradicts it. Please re-review the source before labeling and ensure your explanation reflects the evidence. See Guideline Section 2.3 for supported vs. unsupported claims.
+> The explanation incorrectly states that the article supports the claim. In this case, the source explicitly contradicts it. Please re-review the source before labeling and ensure your explanation reflects the evidence. See Guideline Section 2.3 for supported vs. unsupported claims. Score: 
 
 ---
 
 **Task ID:** 10491  
 **Issue Type:** Minor – Formatting  
 
-> Your labels are correct, but the explanation format does not follow the template (missing bullet points). Please use the standard explanation structure going forward.
+> Your labels are correct, but the explanation format does not follow the template (missing bullet points). Please use the standard explanation structure going forward. Score: 6
 
 ---
 
 **Task ID:** 10503  
 **Positive Reinforcement Example**
 
-> Great job on this task — your explanations were clear, concise, and well-grounded in the source. This is exactly the level of detail we’re looking for.
+> Great job on this task! Your explanations were clear, concise, and well-grounded in the source. This is exactly the level of detail we’re looking for. No Issues. Score: 7
 
 ---
 
