@@ -5,7 +5,7 @@
 This project demonstrates a practical QA rubric for evaluating data annotation quality in human-in-the-loop AI workflows.  
 It is designed to reflect how real data operations teams assess quality, deliver feedback, and maintain consistent standards at scale. 
 
-- **Disclaimer: All scores, descriptions, tables, and insights are simulated and created uniquely by me for educational purposes. These do not reference a real project.**
+- **Disclaimer: All scores, examples, descriptions, tables, and insights in this project are entirely fictional and created solely by me for educational and portfolio purposes. They do not reference, reproduce, or reflect any real projects, proprietary workflows, or confidential materials from past or present employers.**
 
 ---
 ## Contents
