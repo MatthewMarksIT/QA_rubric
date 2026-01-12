@@ -43,7 +43,7 @@ For example, multiple spelling mistakes count as **[1] Minor Issue – Spelling/
 Errors that **materially impact task quality or usability** and represent a fundamental deviation from requirements.
 
 **Examples:**
-- Factual inaccuracies / hallucinations  
+- Factual inaccuracies   
 - Significant formatting errors  
 - No explanation provided in the Explanation Box  
 - Unsafe or harmful content  
