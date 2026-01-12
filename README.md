@@ -1,6 +1,10 @@
 # Data Annotation QA Framework
 
 
+This rubric defines how annotation errors are categorized and counted during QA review.  
+It is designed to promote consistent evaluation, clear feedback, and high-quality outputs across human data workflows.
+
+
 <img width="877" height="509" alt="image" src="https://github.com/user-attachments/assets/92d72a1b-7884-4f9d-99eb-b7a602ca7fd2" />
 
 
